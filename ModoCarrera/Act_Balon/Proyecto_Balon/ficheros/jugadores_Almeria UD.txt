@@ -1,0 +1,16 @@
+Mariño;Portero;Bélgica;33;79;12500000
+Fernando;Portero;España;33;77;11000000
+Kaiky;Defensa;España;19;76;13500000
+Akieme;Defensa;España;26;78;14500000
+Marc Pubill;Defensa;España;20;77;13000000
+Centelles;Defensa;España;24;78;13500000
+Chumi;Defensa;España;24;81;10000000
+Paco Sanz;Defensa;Alemania;19;84;9950000
+Edgar;Centrocampista;España;26;80;13250000
+Baba;Centrocampista;Ghana;27;81;14400000
+Robertone;Centrocampista;Argentina;26;80;12500000
+Lopy;Centrocampista;Senegal;21;78;11000000
+Melero;Centrocampista;España;27;79;12500000
+Suárez;Delantero;Colombia;26;80;15000000
+Ramazani;Delantero;Bélgica;22;79;13750000
+Embarba;Delantero;España;31;79;13500000

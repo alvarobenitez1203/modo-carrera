@@ -1,0 +1,12 @@
+package ACT_1_2;
+
+public interface IJugador {
+	
+	// Métodos GET
+	
+	public String getNombre();
+	public String getNacionalidad();
+	public int getEdad();
+	public int getValoracionGeneral();
+
+}

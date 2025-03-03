@@ -1,0 +1,16 @@
+Herrera;Portero;España;30;84;22500000
+Aitor Fdez;Portero;España;32;82;19500000
+Nacho Vidal;Defensa;España;28;84;23500000
+Juan Cruz;Defensa;España;31;82;18500000
+Unai García;Defensa;España;31;83;22500000
+David García;Defensa;España;29;84;24000000
+Areso;España;España;24;79;19000000
+Cantena;Defensa;España;27;80;19500000
+Torró;Centrocampista;España;29;83;18500000
+Moncayola;Centrocampista;España;25;81;19000000
+Darko;Centrocampista;Serbia;31;80;17500000
+Moi Gómez;Centrocampista;España;29;80;18000000
+Ibañez;Centrocampista;España;25;80;17500000
+Chimy Avila;Delantero;Argentina;29;82;19500000
+Aimar;Delantero;España;22;80;19500000
+Ruben García;Delantero;España;30;82;19000000

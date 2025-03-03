@@ -1,0 +1,30 @@
+Reglas de juego: 
+
+MENÚ INICIAL
+
+- Para comenzar el juego debe elegir un equipo.
+
+MENÚ MERCADO DE FICHAJES
+
+El mercado durará 4 semanas que se irán pasando en una opción de menú
+aunque también se podrá ir directamente al torneo si así lo deseas.
+
+Cada equipo tiene un mínimo de 15 y un máximo de 20 jugadores.
+
+El equipo tiene un presupuesto inicial, a partir de ahí:
+
+- Podrá comprar jugadores de otros equipos.
+- Podrá comprar jugadores del mercado libre.
+- Podrá vender jugadores tu equipo.
+
+MENÚ TORNEO
+
+En este torneo contaremos con 8 equipos que se enfrentarán en
+cuartos de final, semifinal y final.
+
+Cada semana tendrás 2 entrenamientos disponibles para mejorar a tus
+jugadores, aunque habrá la opción de ir directamente al partido sin entrenar.
+
+La eficacia del entrenamiento depende del entrenador del equipo.
+
+El juego finaliza cuando eliminan a tu equipo o consigues salir campeón.

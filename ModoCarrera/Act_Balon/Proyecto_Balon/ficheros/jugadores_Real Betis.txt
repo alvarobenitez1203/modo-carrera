@@ -1,0 +1,16 @@
+Rui Silva;Portero;Portugal;31;84;22100000
+Claudio Bravo;Portero;Chile;37;82;12500000
+Bartra;Defensa;España;30;83;14500000
+Pezella;Defensa;Argentina;28;86;25000000
+Miranda;Defensa;España;22;82;17500000
+Sabaly;Defensa;Senegal;30;83;13500000
+Bellerín;Defensa;España;28;80;14500000
+Abner Vinicius;Defensa;Brazil;20;78;18500000
+Isco;Centrocampista;España;31;85;24650000
+Guido;Centrocampista;Argentina;30;84;23000000
+Marc Roca;Centrocampista;España;28;83;21000000
+Wiliam Carvalho;Centrocampista;Portugal;30;84;19750000
+Guardado;Centrocampista;México;34;81;13500000
+Borja Iglesias;Delantero;España;30;82;15000000
+Rodri;Delantero;España;24;81;21000000
+Assane Diao;Delantero;España;18;79;16750000

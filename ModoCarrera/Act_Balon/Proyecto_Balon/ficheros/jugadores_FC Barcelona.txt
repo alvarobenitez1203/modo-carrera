@@ -1,0 +1,16 @@
+Ter stegen;Portero;Alemania;30;88;29000000
+Inaki Peña;Portero;España;24;81;14500000
+Araujo;Defensa;Uruguay;25;87;28500000
+J. Koundé;Defensa;Francia;26;86;27500000
+Christensen;Defensa;Dinamarca;27;83;21500000
+Joao Cancelo;Defensa;Portugal;30;84;18500000
+Marcos Alonso;Defensa;España;32;80;15500000
+Alejandro Balde;Defensa;España;20;82;26500000
+Pedri;Centrocampista;España;22;87;62500000
+Gavi;Centrocampista;España;21;85;46000000
+De Jong;Centrocampista;Holanda;26;84;25500000
+Romeu;Centrocampista;España;32;81;17500000
+Gundogan;Centrocampista;Alemania;30;83;21250000
+Lewandoski;Delantero;Polonia;31;88;37000000
+Ferrán Torres;Delantero;España;25;83;23000000
+Lamine Yamal;Delantero;España;16;82;28000000

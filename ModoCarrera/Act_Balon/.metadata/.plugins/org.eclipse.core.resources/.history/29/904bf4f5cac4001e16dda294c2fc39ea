@@ -1,0 +1,10 @@
+package ACT_1_2;
+
+public interface IJugador {
+	
+	public String getNombre();
+	public String getNacionalidad();
+	public int getEdad();
+	public int getValoracionGeneral();
+
+}

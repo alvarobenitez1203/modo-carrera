@@ -1,0 +1,13 @@
+package ACT_1_2;
+
+public interface IEntrenador {
+
+	public String getNombre();
+
+	public int getEdad();
+
+	public String getNacionalidad();
+
+	public int getTasaExitoEntrenamiento();
+
+}
